@@ -1,0 +1,96 @@
+comply: tuân theo
+contractor: nhà thầu
+convince: thuyết phục
+involve: lien quan
+regulation: quy định
+furious: giận dữ
+incentives: khích lệ, ưu đãi
+adhere: tuân thủ
+contingency: dự phòng
+accordingly: tương ứng
+governance: quản trị
+replicate: nhân rộng
+fund: kinh phí
+amend: sửa đổi
+absorb: tiếp nhận
+role out = release tung ra
+capacity: khả năng, sức chứa
+autonomy: quyền tự trị
+aware: nhận thức, biết
+upon request: theo yêu cầu
+qualitative: chất lượng
+change control board là nhóm người
+demonstrates: chứng minh, thể hiện
+confronted: đối chất
+dictate: ra lệnh
+argue/argument: lập luận, tranh luận
+initiative: sáng kiến
+contingency plan: kế hoạch dự phòng
+accommodations điều chỉnh
+expedited: xúc tiến
+introvert/extrovert: hướng nội, hướng ngoại
+perceiving: cảm nhận
+elaborate: sửa soạn, chuẩn bị, giải thích
+accommodate: giúp đỡ
+mandatory: bắt buộc
+appoint: bổ nhiệm 
+tolerate: chấp nhận, khoan dung
+mandatory: bắt buộc
+buy-in: sự ủng hộ
+timely manner: kịp thời
+crash the project schedule: phá vỡ kế hoạch dự án
+decline: suy sụp
+cohesiveness/coalesce: sự gắn kết
+peers: đồng nghiệp
+reinforce: củng cố 
+discipline: kỷ luật
+bayond: ngoài 
+---------------------
+exit criteria là các điều kiện ràng buộc để xác định tiếp tục công việc hay terminate (ko dùng để đánh giá chất lượng)
+baseline (cost baseline): Dùng để so sánh vs các dữ liệu thực tế về cost, scope, schedule,...
+steering committee (Hội đồng điều hành) là một nhóm các bên liên quan quan trọng nhất của dự án, thường bao gồm các giám đốc cấp cao, người quản lý dự án, chuyên gia kỹ thuật và các bên liên quan khác có ảnh hưởng đến sự thành công của dự án. Hội đồng điều hành có vai trò quan trọng trong việc đảm bảo rằng dự án được thực hiện đúng tiến độ, ngân sách và đáp ứng các mục tiêu kinh doanh. Đây là nhóm người đưa ra quyết định khi các quyết định vượt quá thẩm quyền của project team.
+parkinson's Law: Nếu có nhiều thời gian để làm 1 công việc, thì cố tình kéo dài và khiến nó trở nên phức tạp để thực hiện hết allocated time.
+self-Protection: Làm xong tasks sớm và có thêm thời gian để bảo vệ khỏi các rủi ro và trách nhiệm pháp lý tiềm ẩn
+student Syndome: Hoãn thời gian bắt đầu công việc cho đến khi deadline đến gần
+dropped Baton: Có sự chậm trễ trong quá trình chuyển giao công việc, thông tin
+functional Structure: Mỗi nhân viên có 1 functional manager, các phòng ban có chức năng riêng và hoạt động độc lập. PM ko có nhiều quyền lực (trái ngược với Matrix Structure)
+governance framework là một hệ thống các nguyên tắc, quy trình và quy định được thiết lập để hướng dẫn và kiểm soát cách thức quản lý và điều hành các dự án trong tổ chức. Mục tiêu của governance framework là để đảm bảo rằng các dự án được thực hiện một cách có trật tự, nhất quán và minh bạch, từ đó góp phần vào việc đạt được mục tiêu chiến lược của tổ chức.
+focused retrospective: Là buổi retrospective trong Agile chỉ tập trung giải quyết triệt để 1 khía cạnh
+Functional Manager (Giám đốc chức năng) là người chịu trách nhiệm quản lý một bộ phận hoặc lĩnh vực chuyên môn cụ thể trong một tổ chức. Họ có chuyên môn sâu rộng trong lĩnh vực của mình và chịu trách nhiệm về hiệu quả hoạt động của bộ phận
+syndication: phân phối thông tin từ 1 nguồn đến nhiều nơi giups lan tỏa thông tin nhanh chóng
+One-on-one meeting: bao gồm face-to-face, over the phone,, video conferencing, ...
+---------------------
+plan poker: estimate effort /story point / business value / difficulty
+progressive elaboration: estimate chi tiết theo thời gian
+three-point: estimate time với 3 trường hợp: trường hợp tốt nhất, trường hợp tệ nhất, trường hợp khả thi
+analogous estimate (ước lượng tương tự): estimate cost or time dựa vào historical data của dự án đã thưucj hiện trước đó có tính chất tương tự
+top-down estimate: estimate cost or time ở mức tổng quan sau đó phân bổ xuống các workpackage
+order of magnitude (ước lượng sơ bộ) estimate cost or time sơ bộ trong 1 phạm vi rộng, có sai số lớn để cung cấp 1 cái nhìn tổng quát giúp các bên liên quan đưa ra quyết định về việc tiếp tục hay điều chỉnh phạm vi
+budget estimate (ước lượng ngân sách): estimate cost or time khi có nhiều thông tin hơn dự án, sai số -10% đến +25%
+definitive estimate (ước lượng chính xác): estimate cost or time rất chính xác khi thông tin chi tiết được xác định rõ ràng
+qualitative risk analysis: phân tích risk khi thông tin không đủ hoặc ko cần thiết hoặc cần phân tích nhanh chóng
+quantitative risk analysis: phân tích risk khi cần đánh giá chính xác về tác động tài chính hoặc khi cần đưa ra quyết định quan trọng dựa trên số liệu cụ thể
+Pareto diagram: để tìm rootcause
+---------------------
+1. Trước khi action thì cần phải xem xét và đánh giá hoặc thảo luận với internal team (development team) or stakeholders
+2. PM làm do first là phải tự làm hoặc trao đổi giải quyết nội bộ với team trước khi nói chuyện hay escalate tới các stakeholder, sponsor
+3. Nếu là giai đoạn deploy production thì cần phải action ngay (có thể nhận sự tư vấn từ bên ngoài Expert Judgment để tránh mắc lỗi 2 lần hoặc những thứ nằm ngoài scope dự án như tuân thủ quy định, legal,...)
+4. PM, PO là người nắm thông tin dự án rõ nhất, nên 2 người này ko thể ask ai đó cung cấp thông tin
+5. Các standards và regulation và ground rules được liệt kê ở project charter
+6. Do next, do first thì có khả năng có nhiều đáp án đúng, nếu nhiều đáp án đúng thì xem đáp án nào thực hiện trước
+7. prevent this situation: lúc này vấn đề mới chỉ là risk chứ chưa phải là issue nên cần các hành động liên quan đến risk chứ không phải review bởi vì review khi nó đã trở thành issue
+8. Đối với các vấn đề lack of..., nếu chỉ là 1 số member thiếu thì ko cần thiết phải training hay discuss cho cả team gây tốn thời gian
+9. Regulation hoặc dự án never be done before thì cần xem xét ý kiến của Subject Matter Experts SMEs vì nó nằm ngoài khả năng của project team
+10. Các chỉ số SPI (EV/PV), CPI (EV/AC) > 1 đều tốt (các chỉ số SV (EV-PV), CV (EV-AC) > 0 đều tốt)
+11. TCPI = (BAC - EV)/(BAC - PV) To Complete Performance Index Chỉ số CPI để hoàn thành remain work. Trong đó BAC là Budget At Completion bao gồm budget approved + contigency reserves
+12. Ở giai đoạn nào, dự án đang sử dụng approach gì, gặp vấn đề nào, nguyên nhân vấn đề đó là gì
+Cần đọc yêu cầu câu hỏi và thường câu hỏi yêu cầu tìm cách xử lý NGUYÊN NHÂN chứ không phải xử lý vấn đề
+13. Nếu câu hỏi có 2 ý (ví dụ cả ... và ...) thì phải chọn đáp án mà giải quyết được cả 2 ý đó. Các đáp án xử lý chỉ 1 ý có thể đúng nhưng không đầy đủ vẫn loại
+14. Cần loại các đáp án mà PM bị động như wait, consult, escalate, delegate. ask, explain, ...
+15. Change Control Board đã bao gồm phân tích ảnh hưởng nên ưu tiên CCB hơn phân tích ảnh hưởng
+16. KPI là thông tin chính xác nhất reflect status of deliverables để đảm bảo dự án thành công 
+17. Gate review và periodic check thì sử dụng governance framework
+18. Thủ tục liên quan đến contractor cần refer tới procurement
+19. Project sponsor chỉ quan tâm đến value hoặc cost, ROI, NPV
+20. Đáp án càng tổng quát càng đúng, đáp án chi tiết thì càng bó buộc suy nghĩ, giải pháp vào đáp án đó
+21. Các đáp án có escalate đều loại
